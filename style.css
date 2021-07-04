@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+     background-color: bisque;    
 }
 
 h1{
@@ -38,11 +39,6 @@ color: white;
     width: 100%;
 }
 
-.top-banner{
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-    
-}
 
 
 .flex{
@@ -74,4 +70,8 @@ color: white;
 
     footer p{
         text-align: center;
+    }
+
+    .red_color{
+        color:red;
     }
