@@ -43,13 +43,12 @@ color: white;
     background-repeat: no-repeat;
     
 }
-.dream_big{
-    
-}
 
-section{
+
+.flex{
     height: 500px;
     padding-bottom: 150px;
+    display: flex;
 }
 
 .Download_button{
@@ -58,6 +57,21 @@ section{
     padding:10px 20px;
     border-radius: 20px;
 
-    
-    
-}
+    }
+
+    .experience_item{
+        width: 40%;
+        height: 70%;
+        margin-left: 5%;
+        margin-right: 5%;
+        box-shadow: 20px -16px teal;
+        padding-right: 2%;
+        border-radius: 10px;
+        background-color: brown;
+        padding-left: 5%;
+    }
+
+
+    footer p{
+        text-align: center;
+    }
